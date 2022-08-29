@@ -1,0 +1,7 @@
+.container-cards {
+    margin-left: 20% ;
+    margin-top: 20px;
+    width: 60%;
+    border: 3px black solid;
+    background-color: aqua;
+}

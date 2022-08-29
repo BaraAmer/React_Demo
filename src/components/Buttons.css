@@ -1,0 +1,9 @@
+.container-buttons {
+    margin-left: 25% ;
+    margin-top: 20px;
+    width: 50%;
+}
+
+.container-buttons button {
+    width: 50%;
+}
